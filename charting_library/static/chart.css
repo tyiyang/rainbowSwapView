@@ -1,0 +1,110 @@
+/* K线样式 */
+
+.chart-page .toolbar-2n2cwgp5-{
+	padding: 0!important
+}
+.chart-page .chart-container-border{
+  background: #0B0F25!important;
+}
+.chart-page .group-wWM3zP_M-{
+	margin-left: 0;
+	border-radius: 0;
+}
+.chart-page .group-wWM3zP_M-.senior{
+	position: absolute;
+}
+/* #en .chart-page .group-wWM3zP_M-.aicoin{
+	right: 150px!important;
+} */
+.chart-page .group-wWM3zP_M-.aicoin{
+	right: 194px;
+	/* right: 90px; */
+}
+
+.chart-page .group-wWM3zP_M-.quintar{
+	right: 90px;
+}
+.chart-page .group-wWM3zP_M-.senior .senior_link{
+	font-size: 12px;
+}
+.chart-page .chart-container{
+	border: none;
+	left: 0!important;
+	width: 100%!important;
+	height: 100%!important;
+	background: #fbfbfb
+}
+
+/* .chart-page .layout__area--center{
+	top: 52px!important
+} */
+.icon-beK_KS0k-+.text-1sK7vbvh-, .text-1sK7vbvh-+.icon-beK_KS0k-{
+	font-size: 12px;
+}
+
+.chart-page .customButton--jqJTfH5-{
+  cursor: pointer;
+	color: #697281!important;
+	font-size: 12px;
+	padding: 0px 14px!important;
+  line-height: 20px!important;
+  margin-right: 6px;
+  border-radius: 2px;
+  background-color: rgba(255,255,255, 0.14)!important;
+}
+.chart-page .customButton--jqJTfH5-:hover,.chart-page .customButton--jqJTfH5-.active{
+  background-color: #3787ef!important;
+  color: #fff!important;
+}
+.chart-page .my-group.active .mydate{
+	border-radius: 3px;
+	color: #666;
+	background:rgba(240,240,240,1);
+}
+
+.chart-page .js-rootresizer__contents{
+	background-color: #222A3D;
+}
+
+/* .button-2ioYhFEY-.isInteractive-20uLObIc-{
+	color: #999!important
+} */
+
+.pane-legend-item-value-wrap .pane-legend-item-value-title__main, .pane-legend-item-value-wrap .pane-legend-item-value__main{
+	font-size: 13px!important;
+
+}
+.pane-legend-item-value-wrap .pane-legend-item-value__main{
+	color: #12af50
+}
+.pane-legend-line>span.pane-legend-line:not(.no-context-menu){
+	font-size: 15px;
+}
+.button-263WXsg-- .icon-1Y-3MM9F- svg,.button-263WXsg-- .icon-1Y-3MM9F-{
+	color: #999!important
+}
+
+._tv-dialog-content .main-properties td{
+	height: 24px;
+}
+
+._tv-dialog-content .alert-dialog-content, ._tv-dialog-content .main-properties{
+	padding: 10px 25px;
+}
+.tv-exit-fullscreen-button {
+	top: 2px!important;
+	text-align: center!important;
+}
+
+span.pane-legend-line.apply-overflow-tooltip.main{
+	font-size: 15px!important;
+}
+
+
+.chart-page .layout__area--top{
+	padding: 0 0 2px 0!important;
+	background-color: #222A3D
+}
+html.theme-dark .group-2JyOhh7Z-,.drawingToolbar-U3_QXRof-.isHidden-2d-PYkzV-, html.theme-dark .drawingToolbar-U3_QXRof-.isHidden-2d-PYkzV-,.group-wWM3zP_M-{
+	background-color: #0B0F25!important;
+}
